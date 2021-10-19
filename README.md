@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alan Ansari
 - 👀 I’m interested in ... Programming / Coding
-- 🌱 I’m currently learning ... JAVA + DSA
+- 🌱 I’m currently learning ... Full Stack Web Development
 - 💞️ I’m looking to collaborate on ... Nothing right now
 - 📫 How to reach me ... ansarialan31@gmail.com
 
