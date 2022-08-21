@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alan Ansari
 - 👀 I’m interested in ... Programming / Coding
-- 🌱 I’m currently learning ... DSA
-- 💞️ I’m looking to collaborate on ... Nothing right now
+- 🌱 I’m currently learning ... Web Development
+- 💞️ I’m looking to collaborate on ... Open Source Web Dev Projects
 - 📫 How to reach me ... ansarialan31@gmail.com
 
 <!---
