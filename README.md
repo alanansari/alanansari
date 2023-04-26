@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alanansari&label=Profile%20views&color=0e75b6&style=flat" alt="alanansari" /> </p>
 
-- 🔭 I’m currently working on **frontend web development**
+- 🔭 I’m currently working on **web development**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Docker**
 
 - 👯 I’m looking to collaborate on **open source**
 
