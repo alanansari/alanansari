@@ -1,5 +1,5 @@
 <h1 align="center">Welcome!🎉 To The World of..</h1>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alanansari&label=Profile%20views&color=0e75b6&style=flat" alt="alanansari" /> </p>
 <p>
 <div align="center">
 <img height="40px" src="https://img.shields.io/badge/-Alan-109c5b?&style=for-the-badge&logoWidth=50"/>
