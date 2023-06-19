@@ -69,7 +69,19 @@
 
 </div>
 
-<h1></h1>
+<!-- Jokes of the Day -->
+## return badPun;
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Joke" />
+</p>
+
+<!-- Real-time Stats -->
+## Stats 📊
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alanansari&show_icons=true&theme=dracula" alt="Stats" />
+</p>
 
 <div align="center">
   
