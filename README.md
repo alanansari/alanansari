@@ -34,7 +34,7 @@
 <h2 align="center">About Me 🚀</h2>
 <p align="center">
 👦Pursuing my Bachelors Degree in "Computer Science". </br>
-💻I enjoy working in Backend development and am currently exploring Golang.</br>
+💻I enjoy working in Backend development and am currently exploring Frontend.</br>
 👨‍💻I have experience working with NodeJs, React.
 </p>
 
