@@ -83,6 +83,6 @@
 
 <div align="center">
   
-<h3> 📄  Please check out my <a href="https://drive.google.com/file/d/1U5bz9EeSA4xxR4dSNVjjWL_Kgt8fxXe8/view"> Resume </a> ❤️ for more information about my experience and skills.</h3>
+<h3> 📄  Please check out my <a href="https://devalan.tech"> Portfolio </a> ❤️ for more information about my experience and skills.</h3>
 
 </div>
