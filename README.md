@@ -85,6 +85,6 @@
 
 <div align="center">
   
-<h3> 📄  Please check out my <a href="https://devalan.tech"> Portfolio </a> ❤️ for more information about my experience and skills.</h3>
+<h3> 📄  Please check out my <a href="https://devalan.in"> Portfolio </a> ❤️ for more information about my experience and skills.</h3>
 
 </div>
