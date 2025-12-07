@@ -1,9 +1,9 @@
-<h1 align="center">Welcome!🎉 To The World of..</h1>
+<h1 align="center">cout<<"Hello World!";</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alanansari&label=Profile%20views&color=0e75b6&style=flat" alt="alanansari" /> </p>
 <p>
 <div align="center">
-<img height="40px" src="https://img.shields.io/badge/-Alan-109c5b?&style=for-the-badge&logoWidth=50"/>
-<img height="40px" src="https://img.shields.io/badge/-Ansari-024023?&style=for-the-badge&logoWidth=50"/>
+<img height="100px" src="https://img.shields.io/badge/-Alan-109c5b?&style=for-the-badge&logoWidth=100"/>
+<img height="100px" src="https://img.shields.io/badge/-Ansari-024023?&style=for-the-badge&logoWidth=100"/>
 </div>
 
 <br>
@@ -17,25 +17,20 @@
 
 <div align=center>
         <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alanansari&show_icons=true&theme=dracula" alt="Stats" />
+  <img src="https://streak-stats.demolab.com?user=alanansari&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </p>
     <div align=center>
-
-<div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=109c5b&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Alan+%F0%9F%91%8B;Software+Developer;Problem+Solver" alt="Headline" />
-</div> 
 <div>
-    <a href="https://www.linkedin.com/in/alan-a-2a2839115/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit" /></a>
-    <a href="https://twitter.com/alan_ansari02"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+    <a href="https://www.linkedin.com/in/alanansari/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit" /></a>
+    <a href="https://twitter.com/thealanweknow"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
         <a href="https://www.discordapp.com/users/_orion_314"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
         <a href="mailto:ansarialan31@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
     </div>
 
 <h2 align="center">About Me 🚀</h2>
 <p align="center">
-👦Pursuing my Bachelors Degree in "Computer Science". </br>
-💻I enjoy building new stuff and learning along the way.</br>
-👨‍💻I have experience working with the MERN Stack.
+💻 I enjoy building new stuff and learning along the way.</br>
+👨‍💻 Professional work experience in FullStack Web Development.</br>
 </p>
 
 <br>
@@ -48,7 +43,7 @@
 <div align="center">
         
 ### Languages    
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/golang-00ADD8?&style=for-the-badge&logo=go&logoColor=white)
 
 ### Framework and Libraries
 
