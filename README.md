@@ -8,7 +8,7 @@ I am Alan Ansari, a Full-Stack Developer.
 - 💼 Sofware Developer (Web) @[Benefi Global Corp](https://benefi.org/)
 - 🚀 Building [Buzrr](https://github.com/buzrr/buzrr) - realtime quizzing platform
 
-**Languages:** `.html` `.scss` `.ts` `.js` `.go` `.c` `.cpp`
+**Languages:** `.html` `.scss` `.ts` `.js` `.c` `.cpp`
 
 **Connect:**
 - 🌐 [Portfolio](https://www.devalan.in/)
@@ -28,7 +28,7 @@ I am Alan Ansari, a Full-Stack Developer.
   <tr>
     <td align="center"><a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a></td>
     <td align="center"><a href="https://expressjs.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40"/></a></td>
-    <td align="center"><a href="https://golang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/></a></td>
+    <td align="center"><a href="https://nestjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40" /></a></td>
     <td align="center"><a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a></td>
     <td align="center"><a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a></td>
     <td align="center"><a href="https://redis.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/></a></td>
