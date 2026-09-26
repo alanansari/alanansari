@@ -5,8 +5,11 @@
 I am Alan Ansari, a Full-Stack Developer.
 
 **Currently:** 
-- 💼 Sofware Developer (Web) @[Benefi Global Corp](https://benefi.org/)
 - 🚀 Building [Buzrr](https://github.com/buzrr/buzrr) - realtime quizzing platform
+
+**Previously:**
+- 💼 Sofware Engineer @[Benefi Global Corp](https://benefi.org/)
+- 💼 Intern @[MathonGo](https://www.mathongo.com/)
 
 **Languages:** `.html` `.scss` `.ts` `.js` `.c` `.cpp`
 
